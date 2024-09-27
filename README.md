@@ -1,2 +1,2 @@
 # Projects
-Prograams developed for me
+First ever project
